@@ -6,4 +6,3 @@ result_viewer.pyw
 Search_Engine.pyw
 settings.txt
 setup.py
-Wrigley%20Engine%20Logo.png
